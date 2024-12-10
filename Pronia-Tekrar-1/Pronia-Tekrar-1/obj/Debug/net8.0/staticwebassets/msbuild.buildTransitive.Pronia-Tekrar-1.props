@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Pronia-Tekrar-1.props" />
+</Project>
