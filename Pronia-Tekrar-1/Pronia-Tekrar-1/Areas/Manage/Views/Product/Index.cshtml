@@ -4,6 +4,15 @@
 }
 <div class="container">
     <h1>Product</h1>
+    <div>
+        @if (TempData["Errors"] != null)
+        {
+            @foreach (var item in (TempData["Errors"] as string[]))
+            {
+                <span class="text-danger">@item</span>
+            }
+        }
+    </div>
     <table class="table">
         <thead>
 
@@ -15,6 +24,7 @@
                 <th scope="col">Price</th>
                 <th scope="col">Category</th>
                 <th scope="col">Tags</th>
+                <th scope="col">Images</th>
             </tr>
         </thead>
         <tbody>
@@ -32,8 +42,13 @@
                     {
                         @tag.Tag.Name                       
                     }
-                    </td> 
-                    <td><a class="btn btn-secondary" asp-action="Update" asp-   route-id=@item.Id>Update</a></td>
+                    </td>
+                    <td>
+                        <div style="with:100px">
+                            <img width="100%" src="~/Upload/Product/@item.productImages?.FirstOrDefault(p=>p.PrimaryImg)">
+                        </div>
+                    </td>
+                    <td><a class="btn btn-secondary" asp-action="Update" asp-route-id=@item.Id>Update</a></td>
                     <td><a class="btn btn-danger" asp-action="Delete" asp-route-id=@item.Id>Delete</a></td>
                 </tr>
             }

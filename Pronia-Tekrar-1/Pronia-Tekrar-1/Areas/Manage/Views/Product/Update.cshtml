@@ -28,16 +28,59 @@
             </div>
             <div class="form-group">
                 <label asp-for="CategoryId">Example select</label>
-                <select class="form-control" asp-for="CategoryId">
+                <select class="form-control" asp-for="CategoryId" asp-items="@(new SelectList(ViewBag.Categories,"Id","Name"))">
                     <option>Select Category</option>
-                    @foreach (Category category in ViewBag.Categories)
-                    {
-                        <option value="@category.Id">@category.Name</option>
-                    }
+
                 </select>
                 <span asp-validation-for="CategoryId" style="color:red"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TagIds">Example select</label>
+                <select class="form-control" asp-for="TagIds" asp-items="@(new SelectList(ViewBag.Tags,"Id","Name"))">
+                    <option>Select Tags</option>
+
+                </select>
+                <span asp-validation-for="TagIds" style="color:red"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-md-4">
+                <div width:100px>
+                    <img width:100% src="~/Upload/Product/@Model.ProductImages?.FirstOrDefault(p=>p.PrimaryImg)?.ImgUrl">
+                </div>
+                <label asp-for="MainPhoto">MainPhoto</label>
+                <input class="form-control" asp-for="MainPhoto">
+                <span asp-validation-for="MainPhoto" style="color:red"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-md-4">
+                <div class="row"> 
+                    @foreach (var item in Model.ProductImages.Where(p => !p.PrimaryImg))
+                    {
+                        <div class="col-3 mb-2 position-relative">
+                            <input type="hidden" value="@item.ImgUrl" name="ImagesUrl"/>
+                            <img width:100% src="~/Upload/Product/@item.ImgUrl">
+                            <button class="btn btn-danger position-absolute" style="right:10px">x</button>
+                        </div>
+                    }
+                </div>
+                <label asp-for="Images">Images</label>
+                <input class="form-control" asp-for="Images">
+                <span asp-validation-for="Images" style="color:red"></span>
             </div>
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>
     </form>
 </div>
+<script>
+    var btn = document.querySelectorAll(".custom btn")
+    btn.forEach(b =>
+        {
+            b.addEventListener("click",function (e)
+            {
+                e.preventDefault();
+                b.parentElement.remove()
+            })
+        })
+</script>

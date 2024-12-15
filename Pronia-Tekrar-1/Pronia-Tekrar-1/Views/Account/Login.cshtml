@@ -28,11 +28,11 @@
                             <h4 class="login-title">Login</h4>
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <label>Email or Username</label>
+                                    <label asp-for="EmailOrUsername">Email or Username</label>
                                     <input asp-for="EmailOrUsername" placeholder="Email or Username" />
                                 </div>
                                 <div class="col-lg-12">
-                                    <label>Password</label>
+                                    <label asp-for="Password">Password</label>
                                     <input asp-for="Password" placeholder="Password" />
                                 </div>
                                 <div class="col-md-8">
@@ -44,7 +44,7 @@
                                 <div asp-validation-summary="All" class="text-danger"></div>
                                 <div class="col-md-4 pt-1 mt-md-0">
                                     <div class="forgotton-password_info">
-                                        <a href="#"> Forgotten pasward?</a>
+                                        <a asp-action="ForgetPassword"> Forgotten pasward?</a>
                                     </div>
                                 </div>
                                 <div class="col-lg-12 pt-5">

@@ -8,7 +8,7 @@ using System.Data.Common;
 namespace Pronia_Tekrar_1.Areas.Manage.Controllers
 {
     [Area("Manage")]
-    [Authorize(Roles = "Admin")]
+
     public class CategoryController : Controller
     {
         AppDbContext _context;

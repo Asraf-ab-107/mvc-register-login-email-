@@ -36,12 +36,24 @@
                 <span asp-validation-for="CategoryId" style="color:red"></span>
             </div>
             <div class="form-group">
-                <label asp-for="CategoryId">Example select</label>
-                <select class="form-control" asp-for="CategoryId" asp-items="@(new SelectList(ViewBag.Categories,"Id","Name"))">
-                    <option>Select Category</option>
+                <label asp-for="TagIds">Example select</label>
+                <select class="form-control" asp-for="TagIds" asp-items="@(new SelectList(ViewBag.Tags,"Id","Name"))">
+                    <option>Select Tags</option>
                     
                 </select>
-                <span asp-validation-for="CategoryId" style="color:red"></span>
+                <span asp-validation-for="TagIds" style="color:red"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="form-group col-md-4">
+                <label asp-for="MainPhoto">MainPhoto</label>
+                <input class="form-control" asp-for="MainPhoto">
+                <span asp-validation-for="MainPhoto" style="color:red"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="Images">Images</label>
+                <input class="form-control" asp-for="Images">
+                <span asp-validation-for="Images" style="color:red"></span>
             </div>
         </div>
         <button type="submit" class="btn btn-primary">Submit</button>

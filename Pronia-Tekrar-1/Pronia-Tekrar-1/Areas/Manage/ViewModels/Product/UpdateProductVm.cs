@@ -8,6 +8,16 @@
         public string Description { get; set; }
         public string SKU { get; set; }
         public int CategoryId { get; set; }
-        public List<int>? TagProducts { get; set; }
+        public List<int>? TagIds { get; set; }
+        public IFormFile? MainPhoto { get; set; }
+        public List<IFormFile>? Images { get; set; }
+        public List<ProductImagesVm>? ProductImages { get; set; }
+        public List<string>? ImagesUrl { get; set; }
+    }
+
+    public class ProductImagesVm
+    {
+        public string ImgUrl { get; set; }
+        public bool PrimaryImg { get; set; }
     }
 }

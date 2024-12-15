@@ -9,7 +9,7 @@ using Pronia_Tekrar_1.Model;
 namespace Pronia_Tekrar_1.Areas.Manage.Controllers
 {
     [Area("Manage")]
-    [Authorize(Roles = "Admin")]
+
     public class SliderController : Controller
     {
         AppDbContext _context;
