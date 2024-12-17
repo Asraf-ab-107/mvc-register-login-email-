@@ -236,7 +236,7 @@ namespace Pronia_Tekrar_1.Areas.Manage.Controllers
                 oldproduct.productImages.Add(new()
                 {
                     PrimaryImg = true,
-                    ImgUrl = vm.Upload(_env.WebRootPath, "Upload")
+                    ImgUrl = vm.MainPhoto.Upload(_env.WebRootPath, "Upload")
                 });
             }
 
@@ -263,10 +263,11 @@ namespace Pronia_Tekrar_1.Areas.Manage.Controllers
             if (vm.Images != null)
             {
                 var removeImg = new List<ProductImages>();
-                foreach(var item in vm.ProductImages.Where(x=>!x.PrimaryImg))
+                foreach(var item in oldproduct.productImages.Where(x=>!x.PrimaryImg))
                 {
                     if (!vm.ImagesUrl.Any(x => x == item.ImgUrl))
                     {
+
                         FileExtension.DeleteFile(_env.WebRootPath, "Upload/Product",item.ImgUrl);
                         _context.productImages.Remove(item);
                     }

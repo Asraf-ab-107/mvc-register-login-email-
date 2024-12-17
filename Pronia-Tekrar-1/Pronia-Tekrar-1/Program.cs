@@ -12,6 +12,7 @@ namespace Pronia_Tekrar_1
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
+            builder.Services.AddSession();
             builder.Services.Configure<MailSettings>(builder.Configuration.GetSection("MailSettings"));
             builder.Services.AddTransient<IMailServices,MailService>();
             builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
@@ -34,6 +35,7 @@ namespace Pronia_Tekrar_1
             var app = builder.Build();
             app.UseAuthentication();
             app.UseAuthorization();
+            app.UseSession();
 
             app.MapControllerRoute(
                 name:"areas",

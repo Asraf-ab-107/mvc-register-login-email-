@@ -16,6 +16,8 @@ namespace Pronia_Tekrar_1.Controllers
 
         public IActionResult Index()
         {
+            Response.Cookies.Append("Cookie-1", "salam");
+
             List<Slider> slidersList = _context.slider.ToList();
             List<Category> categoriesList = _context.categories.ToList();
 

@@ -3,60 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\controllers\\cartcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\controllers\\cartcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\viewcomponents\\basketviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\viewcomponents\\basketviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\viewmodels\\basket\\cookieitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\viewmodels\\basket\\cookieitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\views\\cartcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\views\\cartcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\viewmodels\\basket\\cartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\viewmodels\\basket\\cartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\views\\shared\\components\\basket\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\views\\shared\\components\\basket\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\areas\\manage\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\areas\\manage\\viewmodels\\product\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\areas\\manage\\viewmodels\\product\\updateproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\areas\\manage\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\areas\\manage\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\areas\\manage\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\areas\\manage\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\areas\\manage\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\areas\\manage\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\areas\\manage\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\areas\\manage\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\model\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\model\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\areas\\manage\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\areas\\manage\\viewmodels\\product\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\viewmodels\\basket\\cartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\viewmodels\\basket\\cartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\viewmodels\\basket\\cookieitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\viewmodels\\basket\\cookieitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|c:\\users\\user\\desktop\\mvc-register-login-email-\\pronia-tekrar-1\\pronia-tekrar-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F72000-3C0F-4B83-A591-5881EE8A2222}|Pronia-Tekrar-1\\Pronia-Tekrar-1.csproj|solutionrelative:pronia-tekrar-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,181 +54,142 @@
       "DocumentGroups": [
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartVm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\ViewModels\\Basket\\CartVm.cs",
-              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\ViewModels\\Basket\\CartVm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\ViewModels\\Basket\\CartVm.cs",
-              "RelativeToolTip": "Pronia-Tekrar-1\\ViewModels\\Basket\\CartVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T19:42:52.152Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Views\\CartController1\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Views\\CartController1\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Views\\CartController1\\Index.cshtml",
-              "RelativeToolTip": "Pronia-Tekrar-1\\Views\\CartController1\\Index.cshtml",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHoAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T19:32:25.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CookieItemVm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\ViewModels\\Basket\\CookieItemVm.cs",
-              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\ViewModels\\Basket\\CookieItemVm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\ViewModels\\Basket\\CookieItemVm.cs",
-              "RelativeToolTip": "Pronia-Tekrar-1\\ViewModels\\Basket\\CookieItemVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T18:55:17.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CartController1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Controllers\\CartController1.cs",
-              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Controllers\\CartController1.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Controllers\\CartController1.cs",
-              "RelativeToolTip": "Pronia-Tekrar-1\\Controllers\\CartController1.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T18:49:35.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Areas\\Manage\\Views\\Category\\Update.cshtml",
-              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Areas\\Manage\\Views\\Category\\Update.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Areas\\Manage\\Views\\Category\\Update.cshtml",
-              "RelativeToolTip": "Pronia-Tekrar-1\\Areas\\Manage\\Views\\Category\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-14T15:35:50.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Pronia-Tekrar-1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAAAJoAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:47:05.095Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Views\\Home\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Views\\Home\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Views\\Home\\Detail.cshtml",
-              "RelativeToolTip": "Pronia-Tekrar-1\\Views\\Home\\Detail.cshtml",
-              "ViewState": "AgIAAAMCAAAAAAAAAAAAAA0CAAB+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:46:39.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateProductVm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Areas\\Manage\\ViewModels\\Product\\CreateProductVm.cs",
-              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Areas\\Manage\\ViewModels\\Product\\CreateProductVm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Areas\\Manage\\ViewModels\\Product\\CreateProductVm.cs",
-              "RelativeToolTip": "Pronia-Tekrar-1\\Areas\\Manage\\ViewModels\\Product\\CreateProductVm.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:29:11.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductImages.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Model\\ProductImages.cs",
-              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Model\\ProductImages.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Model\\ProductImages.cs",
-              "RelativeToolTip": "Pronia-Tekrar-1\\Model\\ProductImages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:26:34.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Areas\\Manage\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Areas\\Manage\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Areas\\Manage\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Pronia-Tekrar-1\\Areas\\Manage\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T11:59:25.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Pronia-Tekrar-1\\Areas\\Manage\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T11:57:28.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateProductVm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Areas\\Manage\\ViewModels\\Product\\UpdateProductVm.cs",
-              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Areas\\Manage\\ViewModels\\Product\\UpdateProductVm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Areas\\Manage\\ViewModels\\Product\\UpdateProductVm.cs",
-              "RelativeToolTip": "Pronia-Tekrar-1\\Areas\\Manage\\ViewModels\\Product\\UpdateProductVm.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T11:46:23.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Areas\\Manage\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Areas\\Manage\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Areas\\Manage\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Pronia-Tekrar-1\\Areas\\Manage\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAANkAAAAAAAAAAAAAAO4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAJ0AAAAAAAAAAIAwwLUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T20:30:13.121Z",
+              "WhenOpened": "2024-12-17T14:17:12.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Views\\Shared\\Components\\Basket\\Default.cshtml",
+              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Views\\Shared\\Components\\Basket\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Views\\Shared\\Components\\Basket\\Default.cshtml",
+              "RelativeToolTip": "Pronia-Tekrar-1\\Views\\Shared\\Components\\Basket\\Default.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T07:39:55.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasketViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\ViewComponents\\BasketViewComponent.cs",
+              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\ViewComponents\\BasketViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\ViewComponents\\BasketViewComponent.cs",
+              "RelativeToolTip": "Pronia-Tekrar-1\\ViewComponents\\BasketViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:29:04.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Areas\\Manage\\Views\\Product\\Update.cshtml",
-              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Areas\\Manage\\Views\\Product\\Update.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Areas\\Manage\\Views\\Product\\Update.cshtml",
-              "RelativeToolTip": "Pronia-Tekrar-1\\Areas\\Manage\\Views\\Product\\Update.cshtml",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAD0AAABVAAAAAAAAAA==",
+              "Title": "CartVm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\ViewModels\\Basket\\CartVm.cs",
+              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\ViewModels\\Basket\\CartVm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\ViewModels\\Basket\\CartVm.cs",
+              "RelativeToolTip": "Pronia-Tekrar-1\\ViewModels\\Basket\\CartVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:00:12.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Pronia-Tekrar-1\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T11:58:44.211Z"
+              "WhenOpened": "2024-12-17T05:55:08.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Pronia-Tekrar-1\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:40:18.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CookieItemVm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\ViewModels\\Basket\\CookieItemVm.cs",
+              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\ViewModels\\Basket\\CookieItemVm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\ViewModels\\Basket\\CookieItemVm.cs",
+              "RelativeToolTip": "Pronia-Tekrar-1\\ViewModels\\Basket\\CookieItemVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T05:14:22.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pronia-Tekrar-1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAALEAAAAAAAAAAAAAAMIAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T04:56:46.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Program.cs",
+              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Program.cs",
+              "RelativeToolTip": "Pronia-Tekrar-1\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T04:49:17.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pronia-Tekrar-1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:40:22.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pronia-Tekrar-1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\mvc-register-login-email-\\Pronia-Tekrar-1\\Pronia-Tekrar-1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pronia-Tekrar-1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAMgEAAAAAAAAAAAAAN8EAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-16T11:37:15.224Z",
+              "EditorCaption": ""
             }
           ]
         }
