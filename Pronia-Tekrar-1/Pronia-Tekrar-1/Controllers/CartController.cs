@@ -126,5 +126,19 @@ namespace Pronia_Tekrar_1.Controllers
 
             return Ok(count);
         }
+
+        public async Task<IActionResult> DeleteBasket(int productId)
+        {
+            var basket = Request.Cookies["Basket"];
+            List<CookieItemVm> cookiesList = JsonConvert.DeserializeObject<List<CookieItemVm>>(basket);
+
+            var existProduct = cookiesList.FirstOrDefault(x => x.Id == productId);
+            if (existProduct == null) return NotFound();
+            cookiesList.Remove(existProduct);
+            Response.Cookies.Append("Basket", JsonConvert.SerializeObject(cookiesList));
+
+
+            return RedirectToAction("Index", "Cart");
+        }
     }
 }

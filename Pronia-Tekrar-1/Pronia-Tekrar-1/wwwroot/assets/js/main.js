@@ -917,3 +917,31 @@
         }
     }
 })(jQuery);
+
+async function FilterSearchTerm(search) {
+    try {
+        await fetch('Cart/AddBasket', {
+            method: 'POST',
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(search)
+        });
+        await SearchResult();
+    }
+    catch (error) {
+        
+    }
+}
+
+async function FilterSearchTerm(search) {
+    try {
+        var response = await fetch(`/Shop/Filter?search=${search}`)
+        if (response.ok) {
+            var data = await response.text()
+            document.getElementById('filter-result').innerHTML = data
+        }
+    }
+}
+
+

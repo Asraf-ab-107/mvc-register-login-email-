@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pronia-Tekrar-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d4cef88c5303ab89462fc85d2cfba9157921a27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+062fd3db0c7f24902ee41d49b9d28b60288b05cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pronia-Tekrar-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pronia-Tekrar-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
